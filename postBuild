@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo 'setwd("/home/jovyan/dr8gy_src/FUNCTIONS_PUBLIC")' >> /home/jovyan/.Rprofile
